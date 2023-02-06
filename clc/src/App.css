@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(178, 171, 171) !important;
+  }
+  .conatiner{
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  .conatiner td{
+    display: flex;
+    flex-direction: row;
+  }
